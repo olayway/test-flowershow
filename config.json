@@ -1,6 +1,7 @@
 {
   "title": "Lola",
   "description": "Description",
+  "showSidebar": true,
   "navLinks": [
     {
       "href": "/blog",
